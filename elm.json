@@ -1,0 +1,16 @@
+{
+    "type": "package",
+    "name": "stoeffel/bar",
+    "summary": "Aptent quis arcu accumsan id duis habitasse turpis",
+    "license": "BSD-3-Clause",
+    "version": "1.0.0",
+    "exposed-modules": [
+        "Bar"
+    ],
+    "elm-version": "0.19.0 <= v < 0.20.0",
+    "dependencies": {
+        "elm-lang/core": "6.0.0 <= v < 7.0.0",
+        "stoeffel/foo": "1.0.1 <= v < 2.0.0"
+    },
+    "test-dependencies": {}
+}
